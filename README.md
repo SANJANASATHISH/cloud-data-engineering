@@ -14,3 +14,13 @@ This repository emphasizes practical implementation, real-world datasets, and sc
 ---
 
 ## Repository Structure
+---
+
+## Objective
+
+To build industry-ready skills in **Cloud Data Engineering** while maintaining strong computer science fundamentals for higher studies and professional roles.
+
+---
+
+## Current Status
+🟢 Day 1: SQL Basics (in progress)
