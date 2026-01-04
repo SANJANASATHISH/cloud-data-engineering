@@ -13,14 +13,16 @@ This repository emphasizes practical implementation, real-world datasets, and sc
 
 ---
 
-## Repository Structure
----
-
 ## Objective
 
 To build industry-ready skills in **Cloud Data Engineering** while maintaining strong computer science fundamentals for higher studies and professional roles.
 
 ---
+## Learning Phases
 
-## Current Status
-🟢 Day 1: SQL Basics (in progress)
+- Phase 1: SQL & Python (Basics) --> Completed  
+- Phase 2: Databases & Data Modeling (In Progress)  
+- Phase 3: Big Data & Pipelines (Pending)  
+- Phase 4: Cloud (Pending)  
+- Phase 5: Projects (Pending) 
+
